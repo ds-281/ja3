@@ -1,5 +1,5 @@
-github.com/ds-281/tlsx v1.0.3 h1:CE7mJD0uFiPLh6haNWMnLPRVc0bSAG2qMfI6u1sBQFU=
-github.com/ds-281/tlsx v1.0.3/go.mod h1:9UAmQb/OBtBlk6O1Phdmv0M0UP7OKzeB9IMflqyd4J0=
+github.com/ds-281/tlsx v1.0.4 h1:ej5oWW3RPi1Sx3eNFAOOEiBqhuC+CbnaLQknQrk/PTU=
+github.com/ds-281/tlsx v1.0.4/go.mod h1:5fN7yiHk3NtxTVQNFvo/pMo4hrR4gL0mLv4ZvZ4rzRI=
 github.com/google/gopacket v1.1.17/go.mod h1:UdDNZ1OO62aGYVnPhxT1U6aI7ukYtA/kB8vaU0diBUM=
 github.com/google/gopacket v1.1.18 h1:lum7VRA9kdlvBi7/v2p7/zcbkduHaCH/SVVyurs7OpY=
 github.com/google/gopacket v1.1.18/go.mod h1:UdDNZ1OO62aGYVnPhxT1U6aI7ukYtA/kB8vaU0diBUM=
